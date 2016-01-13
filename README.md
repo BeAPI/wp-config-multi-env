@@ -1,2 +1,2 @@
-# wp-config-multi-servers
-A WP-Config for multi server use.
+# wp-config-multi-env
+A WP-Config for multi environnements use.
