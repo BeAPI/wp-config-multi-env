@@ -89,7 +89,6 @@ if ( WP_DEBUG === true ) {
 
 // Editor & Upgrades
 define( 'DISALLOW_FILE_MODS', true );
-define( 'DISALLOW_FILE_EDIT', true );
 
 // DEV facebook app id
 define( 'FACEBOOK_ID', 125478962548 );

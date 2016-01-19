@@ -129,7 +129,6 @@ define( 'WP_DEBUG', false );
 
 // Editor & Upgrades
 define( 'DISALLOW_FILE_MODS', true );
-define( 'DISALLOW_FILE_EDIT', true );
 
 // Prod facebook app id
 define( 'FACEBOOK_ID', 2547896547 );
